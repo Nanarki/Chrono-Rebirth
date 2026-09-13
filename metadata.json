@@ -1,0 +1,6 @@
+{
+  "name": "Chrono Rebirth: Tactical Roguelike RPG",
+  "description": "A turn-based tactical roguelike RPG featuring procedural worlds, time manipulation combat, job skill mastery, complex inventory prioritization, and persistent artifact research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
